@@ -1,2 +1,3 @@
 # blog.teterkin.ru
-Repository for my blog
+Under construction <- He-he
+
