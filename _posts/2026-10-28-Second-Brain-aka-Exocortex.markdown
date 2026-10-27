@@ -20,13 +20,9 @@ categories: llm wiki exacortex brain
 2. **Буфер:** Переношу полученный файл в папку `inbox` нашей базы знаний.
 3. **Магия:** Запускаю одну-единственную команду в терминале:
     
-    
     ```bash
     uv run llmkb ingest "Обзор книги «Создавая второй мозг», Тьяго Форте.md"
     ```
-    
-    Use code with caution.
-    
 
 Что произошло под капотом?
 
@@ -59,8 +55,6 @@ categories: llm wiki exacortex brain
 
 Источник DATA/inbox/Обзор книги «Создавая второй мозг», Тьяго Форте.md не изменялся.
 ```
-
-Use code with caution.
 
 Итог
 
